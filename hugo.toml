@@ -1,6 +1,6 @@
 baseURL = '/'
-languageCode = 'en-us'
-title = 'Vorbereitung-FIAE-AP2'
+languageCode = 'de-DE'
+title = 'Vorbereitung Fachinformatiker Anwendungsentwicklung AP2'
 enableGitInfo = true
 
 [module]
