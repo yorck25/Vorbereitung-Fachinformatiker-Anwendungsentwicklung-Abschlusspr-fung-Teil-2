@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/anforderungen-an-software/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/ui-designmodelle/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/wirtschaft/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>

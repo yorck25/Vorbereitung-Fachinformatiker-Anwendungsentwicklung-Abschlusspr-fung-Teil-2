@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fachinformatiker Anwendungsentwicklung Prüfungsvorbereitung on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content in Fachinformatiker Anwendungsentwicklung Prüfungsvorbereitung on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</description>
+    <title>Grundlagen der Softwareentwicklung on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</title>
+    <link>//localhost:1313/grundlagen-softwareentwicklung/</link>
+    <description>Recent content in Grundlagen der Softwareentwicklung on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
     <lastBuildDate>Wed, 24 Aug 2022 22:51:52 -0600</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/grundlagen-softwareentwicklung/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anforderungn an Software</title>
       <link>//localhost:1313/grundlagen-softwareentwicklung/anforderungen-an-software/</link>
