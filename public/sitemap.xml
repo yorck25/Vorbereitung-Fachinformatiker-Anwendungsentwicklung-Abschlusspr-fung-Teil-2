@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/betrieb-und-support/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/datenschutz/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/it-sicherheit/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/netzwerke-und-kommunikation/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/projektmanagement/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/software-qualit%C3%A4t/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/uml-diagramme/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/grundlagen-softwareentwicklung/anforderungen-an-software/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/datenbanken/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/design-pattern/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
@@ -11,10 +38,28 @@
     <loc>//localhost:1313/grundlagen-softwareentwicklung/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/klassen-und-objekte/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/design-pattern/mvc-pattern/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/design-pattern/observer-pattern/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/polymorphie/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/rest-api/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/design-pattern/strategy-pattern/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/grundlagen-softwareentwicklung/ui-designmodelle/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/wirtschaft/</loc>
+    <loc>//localhost:1313/wirtschaft-und-recht/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/</loc>

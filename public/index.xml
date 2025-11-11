@@ -16,6 +16,48 @@
       <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;funktionale-anforderungen&#34;&gt;Funktionale Anforderungen&lt;/h1&gt;&#xA;&lt;p&gt;Die funktionalen Anforderungen beschreiben, was ein System tun soll.&#xA;Sie legen fest, welche Funktionen, Prozesse udn Abläufe des System unterstützen oder bereitstellen muss, um die fachlichen Bedürfnisse der Anwender zu erfüllen.&#xA;Sie beziehen sich direkt auf das Verhalten des Systems und sind in der Regel konkret überprüfbar (z.B. duch Tests oder Use Cases).&lt;/p&gt;&#xA;&lt;h2 id=&#34;beispiel&#34;&gt;Beispiel&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Das System soll Benutzeranmeldungen verabeiten können.&lt;/li&gt;&#xA;&lt;li&gt;Das System soll Bestellungen erfassen, speichern und bearbeiten können.&lt;/li&gt;&#xA;&lt;li&gt;Der Benutzer soll Passwörter zurückstezen können.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;nicht-funktionale-anforderungen&#34;&gt;Nicht Funktionale Anforderungen&lt;/h1&gt;&#xA;&lt;p&gt;Die nicht-funktionalen Anforderungen beschreiben, wie gut ein System seine Funktionen ausführt.&#xA;Sie betreffen Qualitätsmerkmale wie Leistung, Sicherheit, Benutzerfreundlichkeit, Zuverfässigkeit oder Wartbarkeit.&#xA;Diese Anforderungen definieren also Rahmenbedingungen und Qualitätsstandards, die das System erfüllen muss, um akzeptabel und eefizient nutzbar zu sein.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Klassen und Objekte</title>
+      <link>//localhost:1313/grundlagen-softwareentwicklung/klassen-und-objekte/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/grundlagen-softwareentwicklung/klassen-und-objekte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MVC-Pattern</title>
+      <link>//localhost:1313/design-pattern/mvc-pattern/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/design-pattern/mvc-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observer-Pattern</title>
+      <link>//localhost:1313/design-pattern/observer-pattern/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/design-pattern/observer-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polymorphie</title>
+      <link>//localhost:1313/grundlagen-softwareentwicklung/polymorphie/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/grundlagen-softwareentwicklung/polymorphie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rest-API</title>
+      <link>//localhost:1313/grundlagen-softwareentwicklung/rest-api/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/grundlagen-softwareentwicklung/rest-api/</guid>
+      <description>&lt;h2 id=&#34;bedeutung&#34;&gt;Bedeutung&lt;/h2&gt;&#xA;&lt;p&gt;REST-API steht für Representational State Transfer Application Programming Interface und ist eine Programmierschnitstelle. Sie wurde nach dem REST-Architekturstil entwickelt und ermöglicht eine Kommunikation zischen Softwareandwendungen, über ein Netzwerk. Dafür wird das HTTP-Protokoll und die HTTP-Methoden genutzt um Daten auszutauschen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;kernkonzeote&#34;&gt;Kernkonzeote&lt;/h2&gt;&#xA;&lt;h3 id=&#34;zustandslosigkeit&#34;&gt;Zustandslosigkeit&lt;/h3&gt;&#xA;&lt;p&gt;Jede Anfrage vom Client and den Server muss alle Informationen für die Bearbeitung der Anfrage enthalten. Es werden keine Daten zischen den Anfragen über den Client gespeichert.&lt;/p&gt;&#xA;&lt;h3 id=&#34;client-server-trennung&#34;&gt;Client-Server-Trennung&lt;/h3&gt;&#xA;&lt;p&gt;Der Client- und die Serveranwendung sind unabhängig von einander. Der Client stellt eine Anfrage in seiner Sprache an den Server. Der Server Natwortet dann in einen Format wie z.B. JSON oder XML.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Strategy-Pattern</title>
+      <link>//localhost:1313/design-pattern/strategy-pattern/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/design-pattern/strategy-pattern/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>UI-Designmodelle</title>
       <link>//localhost:1313/grundlagen-softwareentwicklung/ui-designmodelle/</link>
       <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>

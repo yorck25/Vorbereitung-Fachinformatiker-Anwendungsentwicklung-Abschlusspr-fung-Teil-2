@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</title>
+    <link>//localhost:1313/software-qualit%C3%A4t/</link>
+    <description>Recent content on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="//localhost:1313/software-qualit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
