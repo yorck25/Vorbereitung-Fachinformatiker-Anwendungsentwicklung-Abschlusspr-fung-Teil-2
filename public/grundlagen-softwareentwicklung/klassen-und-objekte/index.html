@@ -18,10 +18,15 @@
 <link rel="icon" type="image/png" href="/favicons/android-192x192.png" sizes="192x192">
 
 <title>Klassen und Objekte | Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</title>
-<meta name="description" content="">
+<meta name="description" content="Definitionen Defintion Klasse Eine Klasse ist eine Vorlage oder ein Bauplan, der EIgenschaften und das Verhalten einer Art von Objekten definiert.
+Definition Objekt Ein Objekt ist eine konkrete, individuelle Instanz dieser Klasse, die auf den Vorgaben der Klasse basiert und spezifische Werte für ihre Attribute hat.
+Beispiel // Auto ist die Klasse (Bauplan) public class Auto { public string Farbe; public int Sitze; public void Fahren(){ Console.WriteLine(&#34;Das Auto fährt.&#34;); } } // auto ist das Objekt Auto auto = new Auto(); auto.Farbe = &#34;Rot&#34;; auto.Sitze = 5; Auto.Fahren();">
 <meta property="og:url" content="//localhost:1313/grundlagen-softwareentwicklung/klassen-und-objekte/">
   <meta property="og:site_name" content="Vorbereitung Fachinformatiker Anwendungsentwicklung AP2">
   <meta property="og:title" content="Klassen und Objekte">
+  <meta property="og:description" content="Definitionen Defintion Klasse Eine Klasse ist eine Vorlage oder ein Bauplan, der EIgenschaften und das Verhalten einer Art von Objekten definiert.
+Definition Objekt Ein Objekt ist eine konkrete, individuelle Instanz dieser Klasse, die auf den Vorgaben der Klasse basiert und spezifische Werte für ihre Attribute hat.
+Beispiel // Auto ist die Klasse (Bauplan) public class Auto { public string Farbe; public int Sitze; public void Fahren(){ Console.WriteLine(&#34;Das Auto fährt.&#34;); } } // auto ist das Objekt Auto auto = new Auto(); auto.Farbe = &#34;Rot&#34;; auto.Sitze = 5; Auto.Fahren();">
   <meta property="og:locale" content="de_DE">
   <meta property="og:type" content="article">
     <meta property="article:section" content="grundlagen-softwareentwicklung">
@@ -29,10 +34,17 @@
     <meta property="article:modified_time" content="2022-08-24T22:51:52-06:00">
 
   <meta itemprop="name" content="Klassen und Objekte">
+  <meta itemprop="description" content="Definitionen Defintion Klasse Eine Klasse ist eine Vorlage oder ein Bauplan, der EIgenschaften und das Verhalten einer Art von Objekten definiert.
+Definition Objekt Ein Objekt ist eine konkrete, individuelle Instanz dieser Klasse, die auf den Vorgaben der Klasse basiert und spezifische Werte für ihre Attribute hat.
+Beispiel // Auto ist die Klasse (Bauplan) public class Auto { public string Farbe; public int Sitze; public void Fahren(){ Console.WriteLine(&#34;Das Auto fährt.&#34;); } } // auto ist das Objekt Auto auto = new Auto(); auto.Farbe = &#34;Rot&#34;; auto.Sitze = 5; Auto.Fahren();">
   <meta itemprop="datePublished" content="2022-08-24T22:51:52-06:00">
   <meta itemprop="dateModified" content="2022-08-24T22:51:52-06:00">
+  <meta itemprop="wordCount" content="88">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Klassen und Objekte">
+  <meta name="twitter:description" content="Definitionen Defintion Klasse Eine Klasse ist eine Vorlage oder ein Bauplan, der EIgenschaften und das Verhalten einer Art von Objekten definiert.
+Definition Objekt Ein Objekt ist eine konkrete, individuelle Instanz dieser Klasse, die auf den Vorgaben der Klasse basiert und spezifische Werte für ihre Attribute hat.
+Beispiel // Auto ist die Klasse (Bauplan) public class Auto { public string Farbe; public int Sitze; public void Fahren(){ Console.WriteLine(&#34;Das Auto fährt.&#34;); } } // auto ist das Objekt Auto auto = new Auto(); auto.Farbe = &#34;Rot&#34;; auto.Sitze = 5; Auto.Fahren();">
 <link href="/scss/main.css" rel="stylesheet">
 <script
   src="https://code.jquery.com/jquery-3.7.1.min.js"
@@ -127,7 +139,16 @@
 
 </div>
 
-            
+            <div class="td-toc">
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#defintion-klasse">Defintion Klasse</a></li>
+    <li><a href="#definition-objekt">Definition Objekt</a></li>
+    <li><a href="#beispiel">Beispiel</a></li>
+  </ul>
+</nav>
+      </div>
+    
             
 
           </aside>
@@ -149,7 +170,28 @@
 	<header class="article-meta">
 		
 </header>
-	
+	<h1 id="definitionen">Definitionen</h1>
+<h2 id="defintion-klasse">Defintion Klasse</h2>
+<p>Eine Klasse ist eine Vorlage oder ein Bauplan, der EIgenschaften und das Verhalten einer Art von Objekten definiert.</p>
+<h2 id="definition-objekt">Definition Objekt</h2>
+<p>Ein Objekt ist eine konkrete, individuelle Instanz dieser Klasse, die auf den Vorgaben der Klasse basiert und spezifische Werte für ihre Attribute hat.</p>
+<h2 id="beispiel">Beispiel</h2>
+<pre tabindex="0"><code class="language-c-sharp" data-lang="c-sharp">// Auto ist die Klasse (Bauplan)
+public class Auto {
+  public string Farbe;
+  public int Sitze;
+
+  public void Fahren(){
+    Console.WriteLine(&#34;Das Auto fährt.&#34;);
+  }
+}
+
+// auto ist das Objekt
+Auto auto = new Auto();
+auto.Farbe = &#34;Rot&#34;;
+auto.Sitze = 5;
+Auto.Fahren();
+</code></pre>
 	
 </div>
 

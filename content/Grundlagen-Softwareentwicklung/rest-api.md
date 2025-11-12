@@ -6,10 +6,10 @@ type: docs
 description: ""
 ---
 
-## Bedeutung
+# Bedeutung
 REST-API steht für Representational State Transfer Application Programming Interface und ist eine Programmierschnitstelle. Sie wurde nach dem REST-Architekturstil entwickelt und ermöglicht eine Kommunikation zischen Softwareandwendungen, über ein Netzwerk. Dafür wird das HTTP-Protokoll und die HTTP-Methoden genutzt um Daten auszutauschen.
 
-## Kernkonzeote
+## Kernkonzepte
 ### Zustandslosigkeit
 Jede Anfrage vom Client and den Server muss alle Informationen für die Bearbeitung der Anfrage enthalten. Es werden keine Daten zischen den Anfragen über den Client gespeichert.
 
