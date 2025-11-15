@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</title>
+    <title>Software Qualität on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</title>
     <link>//localhost:1313/software-qualit%C3%A4t/</link>
-    <description>Recent content on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</description>
+    <description>Recent content in Software Qualität on Vorbereitung Fachinformatiker Anwendungsentwicklung AP2</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 22:51:52 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/software-qualit%C3%A4t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testverfahren</title>
+      <link>//localhost:1313/software-qualit%C3%A4t/testverfahren/</link>
+      <pubDate>Wed, 24 Aug 2022 22:51:52 -0600</pubDate>
+      <guid>//localhost:1313/software-qualit%C3%A4t/testverfahren/</guid>
+      <description>&lt;h2 id=&#34;unit-test&#34;&gt;Unit-Test&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ziel&#34;&gt;Ziel&lt;/h3&gt;&#xA;&lt;p&gt;Prüft einzelne, isolierte Codeeinheiten (Funktionen, Methoden, Klassen).&lt;/p&gt;&#xA;&lt;h3 id=&#34;eigenschaften&#34;&gt;Eigenschaften&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Isolation der kleinsten Softwareeinhaiten&lt;/li&gt;&#xA;&lt;li&gt;Gleiche Eingaben müssen gleiche Ausgaben liefern&lt;/li&gt;&#xA;&lt;li&gt;Der Unit-Test wird vor dem schreiben des Code erstellt&lt;/li&gt;&#xA;&lt;li&gt;Automatisierbar und schnell ausführbar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;schreibtischtest&#34;&gt;Schreibtischtest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ziel-1&#34;&gt;Ziel&lt;/h3&gt;&#xA;&lt;p&gt;Manuelle, gedankliche Durchlaufkontrolle eines Alorithmus oder Codes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;eigenschaften-1&#34;&gt;Eigenschaften&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Eintwickler geht den Code Schritt für Schritt manuell durch&lt;/li&gt;&#xA;&lt;li&gt;Überprüfen der Ablauflogik, Variablenwerten und Verzweigungen&lt;/li&gt;&#xA;&lt;li&gt;Simpel und ohne Tools durchführbar&lt;/li&gt;&#xA;&lt;li&gt;Gut zur frühen Fehlererkennung&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;black-box-test&#34;&gt;Black-Box-Test&lt;/h2&gt;&#xA;&lt;h3 id=&#34;ziel-2&#34;&gt;Ziel&lt;/h3&gt;&#xA;&lt;p&gt;Testen der Funktionalität ohne Kenntnis der internen Implementierung.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

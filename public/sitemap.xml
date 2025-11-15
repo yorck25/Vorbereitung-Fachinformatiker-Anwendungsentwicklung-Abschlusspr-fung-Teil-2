@@ -17,9 +17,6 @@
     <loc>//localhost:1313/projektmanagement/</loc>
     <lastmod>2025-11-11T22:49:56+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/software-qualit%C3%A4t/</loc>
-    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/uml-diagramme/</loc>
     <lastmod>2025-11-11T22:49:56+01:00</lastmod>
   </url><url>
@@ -31,6 +28,9 @@
   </url><url>
     <loc>//localhost:1313/design-pattern/</loc>
     <lastmod>2025-11-11T22:49:56+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/datenbanken/er-erm-modell/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2025-11-11T09:25:55+01:00</lastmod>
@@ -44,6 +44,9 @@
     <loc>//localhost:1313/design-pattern/mvc-pattern/</loc>
     <lastmod>2025-11-11T22:49:56+01:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/datenbanken/normalisierung/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/design-pattern/observer-pattern/</loc>
     <lastmod>2025-11-11T22:49:56+01:00</lastmod>
   </url><url>
@@ -53,8 +56,20 @@
     <loc>//localhost:1313/grundlagen-softwareentwicklung/rest-api/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
+    <loc>//localhost:1313/software-qualit%C3%A4t/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/grundlagen-softwareentwicklung/sortieralgorithmen/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/datenbanken/sql-grundlagen/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/design-pattern/strategy-pattern/</loc>
     <lastmod>2025-11-11T22:49:56+01:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/software-qualit%C3%A4t/testverfahren/</loc>
+    <lastmod>2022-08-24T22:51:52-06:00</lastmod>
   </url><url>
     <loc>//localhost:1313/grundlagen-softwareentwicklung/ui-designmodelle/</loc>
     <lastmod>2022-08-24T22:51:52-06:00</lastmod>
